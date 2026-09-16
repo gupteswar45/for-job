@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/gupteswar45/job-adobe/tree/master/0231-power-of-two) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gupteswar45/job-adobe/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/gupteswar45/job-adobe/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/gupteswar45/job-adobe/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gupteswar45/job-adobe/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/gupteswar45/job-adobe/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/gupteswar45/job-adobe/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gupteswar45/job-adobe/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/gupteswar45/job-adobe/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gupteswar45/job-adobe/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/gupteswar45/job-adobe/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/gupteswar45/job-adobe/tree/master/3903-smallest-stable-index-i) |
 ## Zero-Sum Game
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gupteswar45/job-adobe/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gupteswar45/job-adobe/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
