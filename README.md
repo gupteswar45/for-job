@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gupteswar45/job-adobe/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/gupteswar45/job-adobe/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/gupteswar45/job-adobe/tree/master/0835-image-overlap) |
 | [1472-design-browser-history](https://github.com/gupteswar45/job-adobe/tree/master/1472-design-browser-history) |
 | [1872-stone-game-viii](https://github.com/gupteswar45/job-adobe/tree/master/1872-stone-game-viii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gupteswar45/job-adobe/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gupteswar45/job-adobe/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/gupteswar45/job-adobe/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gupteswar45/job-adobe/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
