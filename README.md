@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gupteswar45/job-adobe/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/gupteswar45/job-adobe/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/gupteswar45/job-adobe/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/gupteswar45/job-adobe/tree/master/0835-image-overlap) |
 | [1472-design-browser-history](https://github.com/gupteswar45/job-adobe/tree/master/1472-design-browser-history) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/gupteswar45/job-adobe/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/gupteswar45/job-adobe/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/gupteswar45/job-adobe/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/gupteswar45/job-adobe/tree/master/1927-sum-game) |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gupteswar45/job-adobe/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/gupteswar45/job-adobe/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
