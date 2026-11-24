@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gupteswar45/job-adobe/tree/master/0001-two-sum) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/gupteswar45/job-adobe/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gupteswar45/job-adobe/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/gupteswar45/job-adobe/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/gupteswar45/job-adobe/tree/master/0940-distinct-subsequences-ii) |
 | [1108-defanging-an-ip-address](https://github.com/gupteswar45/job-adobe/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/gupteswar45/job-adobe/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/gupteswar45/job-adobe/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/gupteswar45/job-adobe/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
